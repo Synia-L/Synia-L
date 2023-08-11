@@ -32,7 +32,7 @@
 
 <div align="left">
 <img height='150' width="400" src="https://github-readme-stats.vercel.app/api?username=Synia-L&hide=stars,prs&count_private=true&show_icons=true&theme=merko" align="center" />
-<img height='150' width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synia-L&layout=compact&theme=merko" align="center" />
+<img height='150' width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synia-L&layout=compact&theme=merko" align="center" />
 </div>  
 
 <br/>  
