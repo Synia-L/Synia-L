@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
+<img align="right" top='60' alt="GIF" src="https://github.com/Synia-L/Synia-L/blob/main/gif.gif" width="480"/>
 
 
 
