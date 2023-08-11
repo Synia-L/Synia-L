@@ -28,6 +28,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Synia-L/count.svg)
 </div>  
 
 <br/>  
+
 <br/>
 
 <div align="left">
@@ -40,10 +41,10 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Synia-L/count.svg)
 
 
 <a href="https://github.com/Synia-L/2048">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Synia-L&repo=2048&theme=merko" />
+  <img height='180' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Synia-L&repo=2048&theme=merko" />
 </a>
 <a href="https://github.com/Synia-L/opentrs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Synia-L&repo=opentrs&theme=merko" />
+  <img height='180' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Synia-L&repo=opentrs&theme=merko" />
 </a>
 
 <!--
