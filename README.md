@@ -1,5 +1,6 @@
-### Hi there 👋
+
 [![Synia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Synia-L&hide=stars,contribs,prs&count_private=true&show_icons=true&theme=radical)](https://github.com/Synia-L/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Synia-L&layout=compact)](https://github.com/Synia-L/github-readme-stats)
 <!--
 **Synia-L/Synia-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
