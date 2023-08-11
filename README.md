@@ -40,12 +40,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Synia-L/count.svg)
 
 
 
-<a href="https://github.com/Synia-L/2048">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Synia-L&repo=2048&theme=merko" />
-</a>
-<a href="https://github.com/Synia-L/opentrs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Synia-L&repo=opentrs&theme=merko" />
-</a>
 
 <!--
 **Synia-L/Synia-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
