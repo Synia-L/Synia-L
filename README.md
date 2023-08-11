@@ -7,9 +7,11 @@
 
 <br/>
 
-- 🍒  A post-90s person who loves software development.
-- 📍  Hangzhou.
-- 👨‍🎓  NUAA.
+- 🍒  A cryptography enthusiast
+- 🔧  Zero Knowledge Proofs
+- 💻  Side-Channel Attacks
+- 🌐  Post-Quantum Cryptography
+- 📍  Hangzhou
 
 <br/>
 
