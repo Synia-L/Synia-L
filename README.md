@@ -7,8 +7,8 @@
 
 <br/>
 
-- 🍒  A cryptography enthusiast
-- 🔧  Zero Knowledge Proofs
+- 🍒  A Cryptography Enthusiast
+- 🔧  Zero-Knowledge Proofs
 - 💻  Side-Channel Attacks
 - 🌐  Post-Quantum Cryptography
 - 📍  Hangzhou
