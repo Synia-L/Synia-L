@@ -32,8 +32,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Synia-L/count.svg)
 <br/>
 
 <div align="left">
-<img height='180' src="https://github-readme-stats.vercel.app/api/pin/?username=Synia-L&repo=2048&theme=merko" align="center" />
-<img height='180' src="https://github-readme-stats.vercel.app/api/pin/?username=Synia-L&repo=opentrs&theme=merko" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Synia-L&repo=2048&theme=merko" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Synia-L&repo=opentrs&theme=merko" align="center" />
 </div>  
 
 <br/>
@@ -41,10 +41,10 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Synia-L/count.svg)
 
 
 <a href="https://github.com/Synia-L/2048">
-  <img height='180' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Synia-L&repo=2048&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Synia-L&repo=2048&theme=merko" />
 </a>
 <a href="https://github.com/Synia-L/opentrs">
-  <img height='180' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Synia-L&repo=opentrs&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Synia-L&repo=opentrs&theme=merko" />
 </a>
 
 <!--
