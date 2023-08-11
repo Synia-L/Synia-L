@@ -21,6 +21,13 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Synia-L/count.svg)
 
 
 # About My Github
+
+<div align="left">
+<img height='180' src="https://github-readme-stats.vercel.app/api?username=Synia-L&hide=stars,contribs,prs&count_private=true&show_icons=true&theme=merko" align="center" />
+<img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synia-L&layout=compact&theme=merko" align="center" />
+</div>  
+
+<br/>  
 [![Synia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Synia-L&hide=stars,contribs,prs&count_private=true&show_icons=true&theme=merko)](https://github.com/Synia-L/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Synia-L&layout=compact)](https://github.com/Synia-L/github-readme-stats)
