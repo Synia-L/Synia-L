@@ -23,7 +23,7 @@
   <a href="https://www.youtube.com/@synialuo4222"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
   <a href="https://space.bilibili.com/269864403/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;  
   <!-- visitor statistics logo 访问量统计徽标 -->
-  <img src="https://komarev.com/ghpvc/?username=Synia-L&label=Views&color=620cac&style=flat" alt="访问量统计" />/a>&emsp; 
+  <img src="https://komarev.com/ghpvc/?username=Synia-L&label=Views&color=620cac&style=flat" alt="访问量统计" /></a>&emsp; 
 </div>
 <br/>
 
