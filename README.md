@@ -1,4 +1,26 @@
+### Hi there 👋
+<img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
 
+
+
+### I'm Synia.
+
+<br/>
+
+- 🍒  A post-90s person who loves software development.
+- 📍  Hangzhou.
+- 👨‍🎓  NUAA.
+
+<br/>
+<br/>
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/Synia-L/count.svg)th visitor
+
+<br/>
+<br/>
+
+
+# About My Github
 [![Synia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Synia-L&hide=stars,contribs,prs&count_private=true&show_icons=true&theme=merko)](https://github.com/Synia-L/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Synia-L&layout=compact)](https://github.com/Synia-L/github-readme-stats)
