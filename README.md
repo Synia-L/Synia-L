@@ -23,8 +23,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Synia-L/count.svg)
 # About My Github
 
 <div align="left">
-<img height='180' src="https://github-readme-stats.vercel.app/api?username=Synia-L&hide=stars,prs&count_private=true&show_icons=true&theme=merko" align="center" />
-<img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synia-L&layout=compact&theme=merko" align="center" />
+<img height='170' src="https://github-readme-stats.vercel.app/api?username=Synia-L&hide=stars,prs&count_private=true&show_icons=true&theme=merko" align="center" />
+<img height='170' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synia-L&layout=compact&theme=merko" align="center" />
 </div>  
 
 <br/>  
