@@ -28,16 +28,14 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Synia-L/count.svg)
 </div>  
 
 <br/>  
-[![Synia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Synia-L&hide=stars,contribs,prs&count_private=true&show_icons=true&theme=merko)](https://github.com/Synia-L/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Synia-L&layout=compact)](https://github.com/Synia-L/github-readme-stats)
 
 
 <a href="https://github.com/Synia-L/2048">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Synia-L&repo=2048" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Synia-L&repo=2048&theme=merko" />
 </a>
 <a href="https://github.com/Synia-L/opentrs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Synia-L&repo=opentrs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Synia-L&repo=opentrs&theme=merko" />
 </a>
 
 <!--
