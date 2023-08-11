@@ -12,11 +12,6 @@
 - 👨‍🎓  NUAA.
 
 <br/>
-<br/>
-
-You are my ![Visitor Count](https://profile-counter.glitch.me/Synia-L/count.svg)th visitor
-
-<br/>
 
 <br/>
 <div align="center">
