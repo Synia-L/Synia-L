@@ -43,8 +43,8 @@
 <br/>
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Synia-L&repo=2048&theme=merko" align="center" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Synia-L&repo=opentrs&theme=merko" align="center" />
+<img height='150' src="https://github-readme-stats.vercel.app/api/pin/?username=Synia-L&repo=2048&theme=merko" align="center" />
+<img height='150' src="https://github-readme-stats.vercel.app/api/pin/?username=Synia-L&repo=opentrs&theme=merko" align="center" />
 </div>  
 
 <br/>
