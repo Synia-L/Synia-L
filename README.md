@@ -16,7 +16,7 @@
 <br/>
 
 <br/>
-<div align="center">
+<div>
 
   <!--
   <a href="https://scholar.google.com/citations?hl=zh-CN&user=M9l2v38AAAAJ/"><img src="https://img.shields.io/badge/Google-Scholar-blue" /></a>&emsp;
